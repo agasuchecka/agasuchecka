@@ -14,6 +14,7 @@ I have experience with customer care, receiving incident reports via calls, emai
 I have some experience with performance testing of web apps and UAT testing.
 ## Tech Stack
 * OS: Windows, macOS
+* mobile: android, iOS
 * Frameworks: ITIL, Agile, Scrum, Kanban
 * Project management tools: Confluence, Jira, Trello, Asana, Lucidchart
 * Incident management tools: ServiceNow
