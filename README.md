@@ -30,6 +30,7 @@ I have some experience with performance testing of web apps and UAT testing.
 * basic HTML
 ## Courses
 * ISTQB® Foundation Path @Pluralsight
+* uTest Academy @uTest
 * Scrum Master Fundamentals - Foundations @Pluralsight
 * Technical Writing: Documentation on Software Projects @Pluralsight
 * Creating a Blog on Wordpress @Pluralsight
