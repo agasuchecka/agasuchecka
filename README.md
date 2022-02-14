@@ -39,6 +39,7 @@ I have some experience with performance testing of web apps and UAT testing.
 * 📖 Roman, A. and Lucjan Stapp "Certyfikowany Tester ISTQB. Poziom podstawowy"
 * 📖 Certyfikowany tester Sylabus poziomu podstawowego ISTQB® Wersja 2018 wersja 3.1| Certified Tester Foundation Level Syllabus Version 2018 V3.1
 * [Youtube] [Kurs SQL 1-3 @JakNauczyćSięProgramowania](https://www.youtube.com/watch?v=15q9R1lTqvI)
+* [Youtube] [Scrum Guide audio - czyta Krystyna Czubówna](https://www.youtube.com/watch?v=TileOoQwrKk&t=524s)
 * [Blog] [WyszkoleWas](https://www.wyszkolewas.com.pl/blog/)
 * [Blog] [Guru99](https://guru99.com/)
 * [Blog] [Remigiusz Bednarczyk](https://remigiuszbednarczyk.pl/)
