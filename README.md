@@ -60,4 +60,6 @@ My name is Agnieszka, and I am a *Software Tester*. In 2018 I graduated from uni
 **Creating a Blog on Wordpress** @Pluralsight\
 **Work Smarter, not Harder: Time Management for Personal and Professional Productivity** @Coursera
 
+[Learning sources](learning_sources.md)
+
 # 📂 Portfolio
