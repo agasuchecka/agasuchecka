@@ -63,3 +63,5 @@ My name is Agnieszka, and I am a *Software Tester*. In 2018 I graduated from uni
 [Learning sources](learning_sources.md)
 
 # 📂 Portfolio
+## Files
+[Bug report template](bug_report.md)
