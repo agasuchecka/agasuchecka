@@ -18,12 +18,18 @@ My name is Agnieszka, and I am a *Software Tester*. In 2018 I graduated from uni
 * Bug reporting
 * DevTools
 * Rest API
+* Accessibility
+## Frameworks
+* Selenium
+* Appium
 ## IDE & CI/CD 
 * Visual Studio Code
 * IntelliJ
 * Xcode
 * Android Studio
 * Jenkins
+* Perfecto
+* Postman
 ## Project Management
 * ITIL
 * Agile
@@ -48,9 +54,12 @@ My name is Agnieszka, and I am a *Software Tester*. In 2018 I graduated from uni
 * Google Workspace
 
 # 📜 Certificates
+**ISTQB Foundation Level** issued February 2024
 **General Data Protection Regulation (GDPR)** issued May 2020
 
 # 🎓 Courses and learning sources
+**Szkoła Testowania Backendu II** @AkademiaQA
+**Automatyzacja testów aplikacji mobilnych** @Udemy
 **Wprowadzenie do automatyzacji testów w języku Java** @AltkomAkademia\
 **ISTQB® Foundation Path** @Pluralsight\
 **Wprowadzenie do GIT i GitHub** @Udemy\
