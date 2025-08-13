@@ -1,5 +1,5 @@
 # 👩🏻‍💻 About Me
-My name is Aga, and I am a *Software Tester*. In 2018 I graduated from university with a Master’s degree in English studies. After graduating, I worked briefly as an English teacher and then moved to a corporate job in clinical trials documentation. In the meantime, I was also doing some translation and proofreading. I entered the world of IT as a Service Desk Agent and then promptly switched to a Technical Writer job. My mind was then already set on Software Testing, so I soon took an opportunity to become a Manual Tester of mobile applications. Currently, I continue to work in manual and automated testing.
+My name is Aga, and I am a *Software Tester*. I currently work in manual and automated testing of banking apps.
 
 # 🛠️ Tech Skills
 
