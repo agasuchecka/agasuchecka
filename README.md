@@ -1,27 +1,25 @@
 # 👩🏻‍💻 About Me
-My name is Aga, and I am a *Software Tester*. In 2018 I graduated from university with a Master’s degree in English studies. After graduating, I worked briefly as an English teacher and then moved to a corporate job in clinical trials documentation. In the meantime, I was also doing some translation and proofreading. I entered the world of IT as a Service Desk Agent and then promptly switched to a Technical Writer job. My mind was then already set on Software Testing, so I soon took an opportunity to become a Manual Tester of mobile applications. Currently, I continue to work in testing and develop towards test automation.
+My name is Aga, and I am a *Software Tester*. In 2018 I graduated from university with a Master’s degree in English studies. After graduating, I worked briefly as an English teacher and then moved to a corporate job in clinical trials documentation. In the meantime, I was also doing some translation and proofreading. I entered the world of IT as a Service Desk Agent and then promptly switched to a Technical Writer job. My mind was then already set on Software Testing, so I soon took an opportunity to become a Manual Tester of mobile applications. Currently, I continue to work in manual and automated testing.
 
 # 🛠️ Tech Skills
-## Operating systems
-* Windows
-* MacOS
-* iOS
-* Android
-## Programming languages
+
+## Programming
 * SQL
 * Java
 * HTML
+
 ## Testing
+* Mobile apps (iOS, Android)
 * Test cases
-	* Testlink
-	* Cucumber (Gherkin)
 * Bug reporting
-* DevTools
 * Rest API
 * Accessibility
-## Frameworks
+
+## Frameworks and Tools
 * Selenium
 * Appium
+* Cucumber
+
 ## IDE & CI/CD 
 * Visual Studio Code
 * IntelliJ
@@ -30,13 +28,16 @@ My name is Aga, and I am a *Software Tester*. In 2018 I graduated from universit
 * Jenkins
 * Perfecto
 * Postman
+
 ## Project Management
 * ITIL
 * Agile
 * Scrum
+
 ## Analytics
 * Graylog
 * Grafana
+
 ## Documentation
 * Markdown
 * Visual design: Figma, Canva
@@ -44,6 +45,8 @@ My name is Aga, and I am a *Software Tester*. In 2018 I graduated from universit
 * QMS: Veeva Vault, Project Library, PhlexTMF
 * CMS: WordPress
 * CAT: MateCat, Wordfast, MemoQ, SubtitleEdit
+
+
 ## Business tools
 * Jira
 * ServiceNow
@@ -58,8 +61,8 @@ My name is Aga, and I am a *Software Tester*. In 2018 I graduated from universit
 **General Data Protection Regulation (GDPR)** issued May 2020
 
 # 🎓 Courses and learning sources
-**Szkoła Testowania Backendu II** @AkademiaQA
-**Automatyzacja testów aplikacji mobilnych** @Udemy
+**Szkoła Testowania Backendu II** @AkademiaQA\
+**Automatyzacja testów aplikacji mobilnych** @Udemy\
 **Wprowadzenie do automatyzacji testów w języku Java** @AltkomAkademia\
 **ISTQB® Foundation Path** @Pluralsight\
 **Wprowadzenie do GIT i GitHub** @Udemy\
@@ -70,7 +73,3 @@ My name is Aga, and I am a *Software Tester*. In 2018 I graduated from universit
 **Work Smarter, not Harder: Time Management for Personal and Professional Productivity** @Coursera
 
 [Learning sources](learning_sources.md)
-
-# 📂 Portfolio
-## Files
-[Bug report template](bug_report.md)
